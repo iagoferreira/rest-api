@@ -2,7 +2,7 @@
 
 A simple REST API
 
-## Tech Stack:
+## Tech Stack
 
 - Node.js
 - Express
