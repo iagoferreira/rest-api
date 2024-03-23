@@ -1,6 +1,6 @@
 # REST API
 
-A simple REST API
+Simple REST API
 
 ## Tech Stack:
 
